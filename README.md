@@ -7,7 +7,6 @@
 
 ## 🛠 Skills & Technologies
 - **Languages**: C, C++, Python
-- **Framework**:
 - **Tools**: Google Colab, Visual Studio Code
 
 ## 🌟 Interests
