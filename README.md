@@ -6,7 +6,7 @@
 😄 Aspiring to become an autonomous driving developer
 
 ## 🛠 Skills & Technologies
-- **Languages**: C, C++, Python, Java
+- **Languages**: C, C++, Python
 - **Framework**:
 - **Tools**: Google Colab, Visual Studio Code
 
