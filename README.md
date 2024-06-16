@@ -1,8 +1,8 @@
 # 👋 Hello World!, I'm DSWoodin
 
 ## About Me
-I am currently studying Geomatics Engineering and Computer Engineering at Pukyong National University. 
-I'm interested in Data Science and Computer Vision.
+I am currently studying Geomatics Engineering and Computer Engineering at Pukyong National University.    
+I'm interested in Data Science and Computer Vision.   
 I hope to be an autonomous driving developer.
 
 ## 🛠 Skills & Technologies
