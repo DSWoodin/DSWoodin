@@ -10,7 +10,7 @@
 - **Tools**: Google Colab, Visual Studio Code
 
 ## 🌟 Interests
-- Autonomous Driving
+- Autonomous Driving, SLAM
 - Computer Vision & Deep Learning
 - Data Science
 
