@@ -15,7 +15,7 @@
 - **LinkedIn**:
 - **Instagram**:
 
-## Languages and Tools 
+## 🛠️ Languages and Tools 
 
 ### Languages
 | Python3 | C | C++ | JavaScript | Java |
@@ -37,14 +37,14 @@
 ---
  
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=sammorozov&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=DSWoodin&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 ---
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=sammorozov&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammorozov&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=DSWoodin&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DSWoodin&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
 
 #### Feel free to check out my repositories and connect with me! 😊
