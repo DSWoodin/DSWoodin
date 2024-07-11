@@ -5,10 +5,6 @@
 🌟 Interested in Data Science and Computer Vision   
 😄 Aspiring to become an autonomous driving developer
 
-## 🛠 Skills & Technologies
-- **Languages**: C, C++, Python
-- **Tools**: Google Colab, Visual Studio Code
-
 ## 🌟 Interests
 - Autonomous Driving, SLAM
 - Computer Vision & Deep Learning
