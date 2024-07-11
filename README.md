@@ -28,23 +28,6 @@
   </a>
 </div>
 
-
-
 #### Feel free to check out my repositories and connect with me! 😊
 
-| <a href="https://github.com/DSWoodin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DSWoodin&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/DSWoodin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DSWoodin&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
 
-
-
-<div align="center">
-  <div style="border: 1px solid #e1e4e8; display: inline-block; padding: 10px; height: 192px;">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DSWoodin" alt="Gift's LangStat" />
-  </div>
-  <div style="border: 1px solid #e1e4e8; display: inline-block; padding: 10px; height: 192px; vertical-align: top; margin-left: 10px;">
-    <h3 style="font-size: 14px; margin: 0;">Most Used Languages</h3>
-    <a href="https://github.com/DSWoodin/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DSWoodin&layout=compact&theme=buefy&hide_border=true" />
-    </a>
-  </div>
-</div>
