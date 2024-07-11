@@ -26,8 +26,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DSWoodin&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
 </div>
 
-<a href="https://myoctocat.dev/@sw-yx/octocat">
-  <img align="right" src="https://user-images.githubusercontent.com/6764957/101532175-1cda1580-39cf-11eb-92fc-8466f97122fc.png" width=200 />
-</a>
 
 #### Feel free to check out my repositories and connect with me! 😊
