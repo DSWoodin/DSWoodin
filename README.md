@@ -1,9 +1,9 @@
 # 👋 Hello World!, I'm DSWoodin
 
-## About Me
+## 😄 About Me
 👶 I'm South Korean, I was born on 2001   
 📚 Bachelor's degree in Geomatics Engineering and Computer Engineering   
-😄 Beginner in programming now but aspiring to become an autonomous driving developer
+🚗 Beginner in programming now but aspiring to become an autonomous driving developer
 
 ## 🌟 Interests
 - Autonomous Driving, SLAM
