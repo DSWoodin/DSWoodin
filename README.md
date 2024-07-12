@@ -3,7 +3,6 @@
 ## About Me
 👶 I'm South Korean, I was born on 2001   
 📚 Bachelor's degree in Geomatics Engineering and Computer Engineering   
-🌟 Interested in Data Science and Computer Vision   
 😄 Beginner in programming now but aspiring to become an autonomous driving developer
 
 ## 🌟 Interests
