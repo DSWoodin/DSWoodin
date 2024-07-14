@@ -45,4 +45,4 @@
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DSWoodin&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
 
-#### Feel free to check out my repositories and connect with me! 👍
+#### Feel free to check out my repositories and connect with me~ 👍
