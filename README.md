@@ -1,4 +1,4 @@
-# 👋 Hello World!, I'm DSWoodin
+# 👋 Hello World! I'm DSWoodin
 
 ## 😄 About Me
 👶 I'm South Korean, I was born on 2001   
